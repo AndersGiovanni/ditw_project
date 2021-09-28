@@ -2,7 +2,7 @@
 
 ### Env setup
 
- - Instal [poetry](https://python-poetry.org/docs/#installation).
+ - Install [poetry](https://python-poetry.org/docs/#installation).
  - Go to the root of the project
  - Run `poetry shell`
  - Run `poetry install`. If it doesnt work then run `poetry update`.
