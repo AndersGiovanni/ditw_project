@@ -10,3 +10,8 @@
 ### Env usage
 
 Now that the environment is installed, we have ensured that all use the same packages and versions. Whenver you want to code, you just run `poetry shell`to activate the environment.
+
+### Add packages
+
+Example:
+`poetry add numpy`
