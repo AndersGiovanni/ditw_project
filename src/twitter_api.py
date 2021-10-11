@@ -23,7 +23,7 @@ class TwitterGenerator:
 
     def search(self, query: str):
 
-        for tweet in tweepy.Cursor(self.api.search_tweets, q=query, lang='da', tweet_mode='extended').items():
+        for tweet in tweepy.Cursor(self.api.search_tweets, q=query, lang='da', tweet_mode='extended').items()[:10]:
             print(tweet)
 
 
