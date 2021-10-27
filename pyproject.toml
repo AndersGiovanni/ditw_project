@@ -1,14 +1,22 @@
 [tool.poetry]
-name = "ditw_project"
+name = "src"
 version = "0.1.0"
 description = ""
 authors = ["hrmussa <andersgiovanni@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = ">=3.8,<3.11"
 Scrapy = "^2.5.0"
 bs4 = "^0.0.1"
 selenium = "^3.141.0"
+numpy = "^1.21.2"
+tweepy = "^4.0.1"
+sentence-transformers = "^2.1.0"
+umap-learn = "^0.5.1"
+hdbscan = "^0.8.27"
+matplotlib = "^3.4.3"
+plotly = "^5.3.1"
+pandas = "^1.3.3"
 
 [tool.poetry.dev-dependencies]
 
