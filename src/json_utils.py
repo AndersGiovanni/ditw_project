@@ -19,7 +19,7 @@ def read_jsonl(path: str) -> List[Dict]:
     print(f'Reading {path}')
     data = []
     with open(path, 'r') as infile:
-        for line in infile.readlines()[:100]:
+        for line in infile.readlines()[:1000]:
             line = json.loads(line)
             data.append(line['text'].strip())
     return data

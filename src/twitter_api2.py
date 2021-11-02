@@ -50,15 +50,16 @@ class TwitterGenerator:
 
     def search_all(self, query: str):
 
-        iteration = 10000
+        iteration = 30
 
         kwargs = {
             'query': query,
             'max_results': 100,
-            'start_time': rfc3339.rfc3339(datetime.date(2018, 1, 1)),
+            'start_time': rfc3339.rfc3339(datetime.date(2021, 1, 1)),
+            'end_time': rfc3339.rfc3339(datetime.date(2021, 4, 1)),
             'expansions': ['geo.place_id', 'in_reply_to_user_id'],
             'tweet_fields': ['author_id', 'entities', 'public_metrics', 'context_annotations', 'created_at', 'referenced_tweets', 'geo'],
-            'next_token': 'b26v89c19zqg8o3fpdp6ntu2uxfvkqfkrs8ovrez4aq9p'
+            'next_token': None
         }
 
         while iteration > 0:
