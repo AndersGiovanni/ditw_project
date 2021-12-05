@@ -1,9 +1,10 @@
-from typing import Dict
+from typing import Dict, Union
 import tweepy
 import argparse
 import datetime
 import rfc3339
 import json
+import time
 from src.json_utils import read_json, write_json
 # For sending GET requests from the API
 # https://developer.twitter.com/en/docs/twitter-api/tweets/search/api-reference/get-tweets-search-all#Optional
@@ -48,18 +49,18 @@ class TwitterGenerator:
 
         #write_json(data, 'data/dkpol_tweets_sample.json')
 
-    def search_all(self, query: str):
+    def search_all(self, query: str, start, end, next_token):
 
-        iteration = 10
+        iteration = 25
 
         kwargs = {
             'query': query,
             'max_results': 100,
-            'start_time': rfc3339.rfc3339(datetime.date(2018, 6, 1)),
-            'end_time': rfc3339.rfc3339(datetime.date(2018, 7, 1)),
+            'start_time': rfc3339.rfc3339(datetime.date(2018, start, 1)),
+            'end_time': rfc3339.rfc3339(datetime.date(2018, end, 1)),
             'expansions': ['geo.place_id', 'in_reply_to_user_id'],
             'tweet_fields': ['author_id', 'entities', 'public_metrics', 'context_annotations', 'created_at', 'referenced_tweets', 'geo'],
-            'next_token': 'b26v89c19zqg8o3fn0sn7i3o5fu1kgphslvcnes18h8cd'
+            'next_token': next_token
         }
 
         while iteration > 0:
@@ -69,9 +70,14 @@ class TwitterGenerator:
             meta_file = open('data/dkpol_meta.jsonl', 'a')
 
             # Query the tweets
-            tweets = self.client.search_all_tweets(**kwargs)
+            try:
+                tweets = self.client.search_all_tweets(**kwargs)
+                next_token = tweets.get('meta').get('next_token')
+            except:
+                time.sleep(60)
+                tweets = self.client.search_all_tweets(**kwargs)
+                next_token = tweets.get('meta').get('next_token')
 
-            next_token = tweets.get('meta').get('next_token')
 
             if next_token is not None:
                 kwargs['next_token'] = next_token
@@ -106,9 +112,13 @@ if __name__ == '__main__':
         default="credentials.json",
         help='Specify the path to your credentials.json')
 
+    parser.add_argument('--start', type = int, default=1)
+    parser.add_argument('--end', type = int, default=3)
+    parser.add_argument('--next_token', default=None)
+
     args = parser.parse_args()
 
     t = TwitterGenerator(
         credential_path="academic_creds.json")
 
-    t.search_all('#dkpol')
+    t.search_all('#dkpol', args.start, args.end, args.next_token)
