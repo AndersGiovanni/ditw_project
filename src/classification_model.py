@@ -27,8 +27,8 @@ def tf_idf_vectotize(text: List[str], stopwords: List[str]) -> np.ndarray:
         stop_words=stopwords,
         ngram_range=(
             1,
-            5),
-        min_df=5,
+            3),
+        min_df=3,
         max_df=0.80)
     return vectorizer.fit_transform(text)
 
@@ -46,7 +46,7 @@ def get_text_and_labels(annotations: List[Dict]) -> Union[List[str], List[str]]:
 
 if __name__ == '__main__':
 
-    annotation_file = DATA_DIR / 'all.jsonl'
+    annotation_file = DATA_DIR / 'annotations/post/annotated_data_v3.jsonl'
     annotations = read_jsonl(annotation_file)
 
     stopwords = read_danish_stopwords()
