@@ -51,13 +51,13 @@ class TwitterGenerator:
 
     def search_all(self, query: str, start, end, next_token):
 
-        iteration = 25
+        iteration = 40
 
         kwargs = {
             'query': query,
             'max_results': 100,
-            'start_time': rfc3339.rfc3339(datetime.date(2018, start, 1)),
-            'end_time': rfc3339.rfc3339(datetime.date(2018, end, 1)),
+            'start_time': rfc3339.rfc3339(datetime.date(2019, start, 1)),
+            'end_time': rfc3339.rfc3339(datetime.date(2019, end, 1)),
             'expansions': ['geo.place_id', 'in_reply_to_user_id'],
             'tweet_fields': ['author_id', 'entities', 'public_metrics', 'context_annotations', 'created_at', 'referenced_tweets', 'geo'],
             'next_token': next_token
