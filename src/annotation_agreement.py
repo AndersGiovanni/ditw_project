@@ -87,7 +87,7 @@ def preprocess_annotations(annotations: List[Dict]) -> Dict[str, List[str]]:
 
 if __name__ == '__main__':
 
-    annotation_file = DATA_DIR / 'all.jsonl'
+    annotation_file = DATA_DIR / 'annotations/post/annotated_data_v2.jsonl'
     annotations = read_jsonl(annotation_file)
 
     evaluate_annotation_data, sentiment_classification_data = split_annotated_data(annotations)
