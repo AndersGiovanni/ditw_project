@@ -66,7 +66,7 @@ def evaluate_BERT_tone(texts: List[str], labels: List[str]) -> None:
 
 if __name__ == '__main__':
 
-    annotation_file = DATA_DIR / 'annotations/post/annotated_data_v1.jsonl'
+    annotation_file = DATA_DIR / 'annotations/post/annotated_data_v3.jsonl'
     annotations = read_jsonl(annotation_file)
 
     stopwords = read_danish_stopwords()
@@ -75,17 +75,20 @@ if __name__ == '__main__':
 
     texts, y = get_text_and_labels(sentiment_classification_data)
 
-    #kf = KFold(n_splits=5)
+    # kf = KFold(n_splits=5)
     kf = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
     all_preds, all_trues = list(), list()
     idx = 1
+
+    wrong_preds = []
+
     for train_index, test_index in kf.split(texts, y):
 
-        X_train, X_test = np.array(texts)[train_index], np.array(texts)[test_index]
-        X_train, X_test = tf_idf_vectotize(X_train, X_test, stopwords)
+        X_train_text, X_test_text = np.array(texts)[train_index], np.array(texts)[test_index]
+        X_train, X_test = tf_idf_vectotize(X_train_text, X_test_text, stopwords)
         y_train, y_test = y[train_index], y[test_index]
 
-        #clf = RandomForestClassifier(max_depth=2, random_state=42, n_jobs=-1)
+        # clf = RandomForestClassifier(max_depth=2, random_state=42, n_jobs=-1)
         clf = LogisticRegression(random_state=42)
 
         clf.fit(X_train, y_train)
@@ -94,12 +97,21 @@ if __name__ == '__main__':
 
         f1 = f1_score(y_test, preds, average='weighted')
 
+        wrong_preds_split = [(X_test_text[idx], pred, y_test[idx]) for idx, pred in enumerate(preds) if pred != y_test[idx]]
+        wrong_preds.extend((wrong_preds_split))
+
         print(f'Fold: {idx}, F1: {f1}')
 
         all_preds += preds.tolist()
         all_trues += y_test.tolist()
 
         idx += 1
+
+    with open('data/wrong_preds.txt', 'w') as wrongs:
+        for line in wrong_preds:
+            wrongs.write(f'{list(*line)}\n')
+
+    exit()
 
     target_names = ['Negative', 'Neutral', 'Positive']
     print()
@@ -110,9 +122,9 @@ if __name__ == '__main__':
                                   display_labels=target_names)
     disp.plot(cmap=plt.get_cmap('Blues'))
     # plt.tight_layout()
-    #plt.savefig('data/img/cm_v1.png', dpi=300)
+    # plt.savefig('data/img/cm_v1.png', dpi=300)
     plt.show()
 
     print()
-    #print('BERT Tone Sentiment Classification')
-    #evaluate_BERT_tone(texts, y)
+    # print('BERT Tone Sentiment Classification')
+    # evaluate_BERT_tone(texts, y)
