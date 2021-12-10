@@ -1,21 +1,20 @@
+import pickle
 from typing import Dict, List, Union
-from numpy.lib.function_base import average
-from scipy.sparse.construct import random
-from sklearn.feature_extraction.text import TfidfVectorizer
-from nltk.tokenize import TweetTokenizer
-import numpy as np
-from src.json_utils import read_jsonl
-from src.config import DATA_DIR
-from src.annotation_agreement import encode_labels, split_annotated_data
-from src.annotation_agreement import encode_labels, split_annotated_data
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import train_test_split, KFold, StratifiedKFold
-from sklearn.metrics import f1_score, classification_report
+
 import matplotlib.pyplot as plt
-from tqdm import tqdm
+import numpy as np
 from danlp.models import load_bert_tone_model
+from nltk.tokenize import TweetTokenizer
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import (ConfusionMatrixDisplay, classification_report,
+                             confusion_matrix, f1_score)
+from sklearn.model_selection import StratifiedKFold
+from tqdm import tqdm
+
+from src.annotation_agreement import encode_labels, split_annotated_data
+from src.config import DATA_DIR
+from src.json_utils import read_jsonl
 
 
 def read_danish_stopwords() -> List[str]:
@@ -23,7 +22,8 @@ def read_danish_stopwords() -> List[str]:
         return [word.strip() for word in stop_file.readlines()]
 
 
-def tf_idf_vectotize(train: List[str], test: List[str], stopwords: List[str]) -> Union[np.ndarray, np.ndarray]:
+def tf_idf_vectotize(train: List[str], test: List[str], stopwords: List[str],
+                     save_vectorizer_name: str = '') -> Union[np.ndarray, np.ndarray]:
     tweet_tokenizer = TweetTokenizer().tokenize
     vectorizer = TfidfVectorizer(
         tokenizer=tweet_tokenizer,
@@ -35,6 +35,11 @@ def tf_idf_vectotize(train: List[str], test: List[str], stopwords: List[str]) ->
         max_df=0.80)
     train_vec = vectorizer.fit_transform(train)
     test_vec = vectorizer.transform(test)
+
+    if save_vectorizer_name:
+        with open(save_vectorizer_name, 'wb') as fout:
+            pickle.dump(vectorizer, fout)
+
     return train_vec, test_vec
 
 
@@ -64,6 +69,14 @@ def evaluate_BERT_tone(texts: List[str], labels: List[str]) -> None:
     print(classification_report(labels, predictions, target_names=target_names))
 
 
+def train_and_save_model(X: np.ndarray, y: np.ndarray, modelname: str = 'sentiment_log_reg.sav'):
+    model = LogisticRegression()
+    model.fit(X, y)
+    # save the model to disk
+    pickle.dump(model, open(modelname, 'wb'))
+    print(f'Model saved to: {modelname}')
+
+
 if __name__ == '__main__':
 
     annotation_file = DATA_DIR / 'annotations/post/annotated_data_v3.jsonl'
@@ -74,6 +87,11 @@ if __name__ == '__main__':
     evaluate_annotation_data, sentiment_classification_data = split_annotated_data(annotations)
 
     texts, y = get_text_and_labels(sentiment_classification_data)
+    X, _ = tf_idf_vectotize(texts, texts, stopwords, save_vectorizer_name='models/tf_idf_vectorizer.pkl')
+
+    train_and_save_model(X, y, 'models/sentiment_log_reg.pkl')
+
+    exit()
 
     # kf = KFold(n_splits=5)
     kf = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
