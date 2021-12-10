@@ -1,0 +1,204 @@
+Cluser ID: 1
+Top words: ['direktiv', 'mv', 'tv', 'ophavsret', 'implementering', 'visse', 'radioselskabernes', 'beslægtede', 'onlinetransmissioner', 'rettigheder', 'dele', 'lov', 'regler', 'forslag', 'ændring', 'europæiske', 'gennemførelse', 'forordning', 'eu', 'unions', 'udøvelse', 'retransmissioner', 'radio', 'gælder', 'ophavsretten', 'radioprogrammer', 'indre', 'marked', 'digitale', 'direktivet']
+Texts:
+0: 'Forslag til lov om ændring af lov om radio- og fjernsynsvirksomhed m.v. (Ændring af Radio- og tv-nævnets kompetencesammensætning og hjemmel til forlængelse af beskikkelsesperioden). Om ændring af Radio- og tv-nævnets kompetencesammensætning og hjemmel til forlængelse af beskikkelsesperiode.'
+----
+1: 'Forslag til lov om ændring af lov om miljøvenligt design af energirelaterede produkter, produktenergimærkningsloven, lov om radioudstyr og elektromagnetiske forhold og lov om elektroniske kommunikationsnet og -tjenester. (Tilpasning af kontrolbeføjelser m.v. i overensstemmelse med Europa-Parlamentets og Rådets forordning 1020/2019/EU af 20. juni 2019 om markedsovervågning og produktoverensstemmelse og om ændring af direktiv 2004/42/EF og forordning 765/2008/EF og 305/2011/EU m.v.). Om tilpasning af kontrolbeføjelser m.v. i overensstemmelse med Europa-Parlamentets og Rådets forordning om markedsovervågning og produktoverensstemmelse m.v.'
+----
+2: 'Forslag til lov om ændring af lov om ophavsret. (Implementering af dele af direktiv om ophavsret og beslægtede rettigheder på det digitale indre marked og direktiv om regler for udøvelse af ophavsretten og beslægtede rettigheder, der gælder for visse af tv- og radioselskabernes onlinetransmissioner og retransmissioner af tv- og radioprogrammer m.v.). Om implementering af dele af direktiv om ophavsret m.v. og om regler for visse af tv- og radioselskabernes onlinetransmissioner m.v.'
+----
+3: 'Forslag til lov om ændring af købeloven og lov om markedsføring. (Ændring af reglerne om forbrugerkøb som følge af implementering af varedirektivet og direktivet om digitalt indhold). Om ændring af reglerne om forbrugerkøb som følge af implementering af varedirektivet og direktivet om digitalt indhold.'
+----
+4: 'Forslag til lov om ændring af lov om ophavsret. (Implementering af dele af direktiv om ophavsret og beslægtede rettigheder på det digitale indre marked og direktiv om regler for udøvelse af ophavsretten og beslægtede rettigheder, der gælder for visse af tv- og radioselskabernes onlinetransmissioner og retransmissioner af tv- og radioprogrammer m.v.). Om implementering af dele af direktiv om ophavsret m.v. og om regler for visse af tv- og radioselskabernes onlinetransmissioner m.v.'
+----
+5: 'Forslag til lov om ændring af lov om anvendelsen af visse af Den Europæiske Unions retsakter om økonomiske forbindelser til tredjelande m.v. (Adgang til kontrolbesøg m.v.). Om adgang til kontrolbesøg m.v. efter visse af Den Europæiske Unions retsakter om økonomiske forbindelser til tredjelande m.v.'
+----
+6: 'Forslag til lov om supplerende bestemmelser til forordning om opstilling af rammer for energimærkning m.v. (produktenergimærkningsloven). Om supplerende bestemmelser til forordning om opstilling af rammer for energimærkning m.v. (produktenergimærkningsloven).'
+----
+7: 'Forslag til lov om ændring af lov om ophavsret. (Implementering af dele af direktiv om ophavsret og beslægtede rettigheder på det digitale indre marked og direktiv om regler for udøvelse af ophavsretten og beslægtede rettigheder, der gælder for visse af tv- og radioselskabernes onlinetransmissioner og retransmissioner af tv- og radioprogrammer m.v.). Om implementering af dele af direktiv om ophavsret m.v. og om regler for visse af tv- og radioselskabernes onlinetransmissioner m.v.'
+----
+8: 'Forslag til lov om ændring af lov om CO2-kvoter. (Tilpasning af regler som følge af ændringer i kvotedirektiv 2003/87/EF og tilhørende EU-retsakter forud for 4. kvotehandelsperiode, herunder justering af klageregler m.v.) Om tilpasning af regler om CO2-kvoter som følge af ændringer i kvotedirektivet og tilhørende EU-retsakter m.v.'
+----
+9: 'Forslag til lov om ændring af lov om elektroniske kommunikationsnet og -tjenester, lov om radiofrekvenser og forskellige andre love. (Implementering af direktiv om oprettelse af en europæisk kodeks for elektronisk kommunikation (omarbejdning) m.v.). Om implementering af direktiv om oprettelse af en europæisk kodeks for elektronisk kommunikation (omarbejdning) m.v.'
+----
+10: 'Forslag til lov om ændring af lov om administration af tilskud fra Den Europæiske Regionalfond og Den Europæiske Socialfond. (Ændringer af indstillingsretten af midler fra EU’s Regionalfond og Socialfond m.v.). Om ændringer af indstillingsretten af midler fra EU’s Regionalfond og Socialfond m.v.'
+----
+11: 'Forslag til lov om ændring af lov om radio- og fjernsynsvirksomhed, personskatteloven, lov om social pension og forskellige andre love. (Gennemførelse af aftale om fokusering af DR og afskaffelse af medielicensen m.v.). Om gennemførelse af aftale om fokusering af DR og afskaffelse af medielicensen m.v.'
+----
+12: "Forslag til lov om ændring af årsregnskabsloven, revisorloven og lov om anvendelsen af visse af Den Europæiske Unions retsakter om økonomiske forbindelser til tredjelande m.v. (Tilpasninger til Europa-Parlamentets og Rådets direktiv 2013/34/EU, ændring af kravene til revisorers efteruddannelse og styrket kontrol i forbindelse med ansøgninger om tilladelse til eksport af cyberovervågningsudstyr). Om implementering af EU's regnskabsdirektiv og styrket kontrol i forbindelse med eksport af cyberovervågningsudstyr m.v."
+----
+13: 'Forslag til lov om ændring af lov om anvendelsen af visse af Den Europæiske Unions retsakter om økonomiske forbindelser til tredjelande m.v. (Adgang til kontrolbesøg m.v.). Om adgang til kontrolbesøg m.v. efter visse af Den Europæiske Unions retsakter om økonomiske forbindelser til tredjelande m.v.'
+----
+14: 'Forslag til lov om ændring af lov om våben og eksplosivstoffer m.v. (Udenlandske civile statsmyndigheders adgang til at bære og ind- og udføre visse våben og fastsættelse af supplerende bestemmelser til forordning (EU) 2019/1148 af 20. juni 2019 om markedsføring og anvendelse af udgangsstoffer til eksplosivstoffer m.v.). Om udenlandske civile statsmyndigheders adgang til at bære visse våben m.v.'
+----
+------------------------------------
+Cluser ID: 4
+Top words: ['afgift', 'mv', 'lov', 'forhøjelse', 'ændring', 'forslag', 'ophævelse', 'registreringsafgiften', 'nedsættelse', 'afgiften', 'eldrevne', 'forskellige', 'love', 'registreringsafgift', 'køretøjer', 'emballageafgiftsloven', 'opkrævningsloven', 'genindførelse', 'pvcfolier', 'registreringsafgiftsloven', 'engangsservice', 'afskaffelse', 'udskydelse', 'række', 'foderfosfat', 'fosfor', 'mineralsk', 'fri', 'tinglysningsafgiftsloven', 'øl']
+Texts:
+0: 'Forslag til lov om ændring af lov om afgift af visse emballager, \nposer, engangsservice og pvc-folier (emballageafgiftsloven), \nlov om midlertidig nedsættelse af straffen for overtrædelse af skatte- og afgiftslovgivningen vedrørende midler på udenlandske konti m.v. og opkrævningsloven. (Forhøjelse af afgiften på bæreposer og engangsservice m.v.). Om forhøjelse af afgiften på bæreposer og engangsservice\nm.v.'
+----
+1: 'Forslag til lov om ændring af lov om afgift af lønsum m.v. og momsloven. (Indførelse af nulmoms på elektronisk leverede aviser m.v.). Om indførelse af nulmoms på elektronisk leverede aviser m.v.'
+----
+2: 'Forslag til lov om ændring af opkrævningsloven. (Udskydelse af betalingsfrist for registreringsafgift af motorkøretøjer i forbindelse med covid-19). Om udskydelse af betalingsfrist for registreringsafgift af motorkøretøjer i forbindelse med covid-19).'
+----
+3: 'Forslag til lov om ændring af registreringsafgiftsloven og ligningsloven. (Annullering af stigning i registreringsafgift for eldrevne køretøjer og pluginhybridbiler i 2020 samt lavere beskatning af eldrevne biler, pluginhybridbiler og brændselscelledrevne biler, der anvendes som fri bil). Om registreringsafgiften for eldrevne køretøjer og pluginhybridbiler i 2020 m.v.'
+----
+4: 'Forslag til lov om ændring af chokoladeafgiftsloven og forskellige andre love. (Ligestilling af kakaodrikke med kakaomælk m.v.). Om ligestilling af kakaodrikke med kakaomælk m.v.'
+----
+5: 'Forslag til lov om ændring af emballageafgiftsloven og opkrævningsloven og om ophævelse af pvc-afgiftsloven. (Ophævelse af pvc-afgiften og emballageafgiften på pvc-folier). Om ophævelse af pvc-afgiften og emballageafgiften på pvc-folier.'
+----
+6: 'Forslag til lov om ophævelse af lov om afgift af mineralsk fosfor i foderfosfat og ændring af opkrævningsloven, selskabsskatteloven, lov om afgift af tinglysning og registrering af ejer- og panterettigheder m.v. (tinglysningsafgiftsloven) og øl- og vinafgiftsloven. (Nedsættelse af afgift på øl og vin, afskaffelse af registreringsafgiften på fly, ophævelse af lov om afgift af mineralsk fosfor i foderfosfat og forhøjelse af restskatteprocenten for selskabsskat). Om nedsættelse af afgift på øl og vin, afskaffelse af registreringsafgiften på fly, ophævelse af lov om afgift af mineralsk fosfor i foderfosfat og forhøjelse af restskatteprocenten for selskabsskat.'
+----
+7: 'Forslag til lov om ændring af fiskeriloven. (Ændrede vilkår for registrering som erhvervsfisker og erhvervsfiskerselskab, forenkling af bierhvervsfiskerreglerne, indberetningspligt for fritidsfiskere, krav om digital kommunikation, kontrolpunkter til søs m.v.). Om ændrede vilkår for registrering som erhvervsfisker og erhvervsfiskerselskab m.v.'
+----
+8: 'Forslag til lov om ændring af lov om afgift af tinglysning af ejer- og panterettigheder m.v. (tinglysningsafgiftsloven), emballageafgiftsloven, lov om afgift af bekæmpelsesmidler og forskellige andre love. (Indeksering af de faste tinglysningsafgifter og en række miljøafgifter og genindførelse af registreringsafgiften på luftfartøjer m.v.). Om indeksering af de faste tinglysningsafgifter og en række miljøafgifter og genindførelse af registreringsafgiften på luftfartøjer m.v'
+----
+9: 'Forslag til lov om afgift af polyvinylklorid og ftalater (pvc-afgiftsloven). Om pvc-afgiftsloven.'
+----
+10: 'Forslag til lov om ændring af emballageafgiftsloven, lov om registrering af køretøjer og forskellige andre love og om ophævelse af lov om tilskud til visse miljøvenlige lastbiler. (Indførelse af bagatelgrænser i visse afgiftslove, udvidelse af bemyndigelsesbestemmelsen for terminaladgang til Køretøjsregisteret, undtagelse for udligningsafgift for visse påhængskøretøjer, udskydelse af tidspunkt for offentliggørelse og anvendelse af standardkontrakter ved leasing m.v.). Om indførelse af bagatelgrænser i visse afgiftslove m.v.'
+----
+11: 'Forslag til lov om ændring af registreringsafgiftsloven, brændstofforbrugsafgiftsloven og lov om vægtafgift af motorkøretøjer m.v. (Udskydelse af indfasning af registreringsafgift m.v. og ændring af bundfradrag for eldrevne køretøjer m.v.). Om udskydelse af indfasning af registreringsafgift m.v. og ændring af bundfradrag for eldrevne køretøjer m.v.'
+----
+12: 'Forslag til folketingsbeslutning om indførsel af afgift på kød fra drøvtyggere, øget afgift på benzin og diesel og indførsel af forbrugsafgift på flyrejser. Om indførsel af afgift på kød fra drøvtyggere, øget afgift på benzin og diesel og indførsel af forbrugsafgift på flyrejser.'
+----
+13: 'Forslag til lov om ændring af tinglysningsafgiftsloven og forskellige andre love og om ophævelse af lov om afgift af antibiotika og vækstfremmere anvendt i foderstoffer. (Afgiftssaneringspakke m.v.). Om en afgiftssaneringspakke m.v.'
+----
+14: 'Forslag til lov om ændring af lov om afgift af elektricitet, lov om afgift af naturgas og bygas m.v., lov om afgift af stenkul, brunkul og koks m.v. og lov om energiafgift af mineralolieprodukter m.v. (Omlægning af beskatningen af overskudsvarme). Om omlægning af beskatningen af overskudsvarme.'
+----
+------------------------------------
+Cluser ID: 5
+Top words: ['mv', 'ændring', 'forslag', 'lov', 'forskellige', 'inddrivelse', 'covid19', 'ligningsloven', 'udskydelse', 'love', 'forbindelse', 'beskatning', 'betalingsfrister', 'ændringer', 'midlertidig', 'selskabsskatteloven', 'justering', 'visse', 'fradrag', 'kildeskatteloven', 'moms', 'askat', 'gæld', 'udbetaling', 'offentlige', 'angivelses', 'pensionsbeskatningsloven', 'yderkommuner', 'arbejdsmarkedsbidrag', 'registreret']
+Texts:
+0: 'Forslag til lov om ændring af lov om energiafgift af mineralolieprodukter m.v., spiritusafgiftsloven, momsloven og forskellige andre love. (Implementering af det omarbejdede cirkulationsdirektiv, direktivet om militær mobilitet og ændringer i alkoholstrukturdirektivet, justering af reglerne om adgang til virksomheders bevillings- og registreringsforhold, præcisering af bagatelgrænsereglen i en række afgiftslove, justering af momsreglerne for udlejningsvirksomheder og køreskolers salg af motorkøretøjer og tilpasning til EU-regler af tidspunktet for momsfradragsrettens indtræden m.v.). Om implementering af EU-direktiver og forskellige ændringer af energiafgifter m.v.'
+----
+1: 'Forslag til lov om ændring af skatteindberetningsloven, skattekontrolloven, kildeskatteloven, ligningsloven og pensionsbeskatningsloven. (Gennemførelse af direktiv om obligatorisk automatisk udveksling af oplysninger på beskatningsområdet i forbindelse med indberetningspligtige grænseoverskridende ordninger). Om obligatorisk automatisk udveksling af oplysninger på beskatningsområdet i forbindelse med indberetningspligtige grænseoverskridende ordninger.'
+----
+2: 'Forslag til lov om ændring af momsloven, kildeskatteloven og lov om inddrivelse af gæld til det offentlige. (Digitale salgsregistreringssystemer og ændring af reglerne om udstedelse af skattekort til tredjelandsstatsborgere). Om digitale salgsregistreringssystemer og udstedelse af skattekort til tredjelandsstatsborgere.'
+----
+3: 'Forslag til lov om ændring af ligningsloven og lov om spil. (Lempelse af boligjobordningen i 2021, skattefritagelse af visse arbejdsgiverbetalte gavekort til oplevelsesøkonomi i 2021, af arbejdsgiverbetalte covid-19-test m.v. og af tilbagebetalt covid-19-støtte og nedsættelse af procentsatsen for det særlige bidrag til hestevæddeløbssporten). Om lempelse af BoligJobordningen og skattefritagelse af visse arbejdsgiverbetalte gavekort i 2021 m.v.'
+----
+4: 'Forslag til lov om ændring af lov om brug af køberet eller tegningsret til aktier m.v. i ansættelsesforhold. (Udvidelse af aftalefriheden i optionsordninger). Om udvidelse af aftalefriheden i aktieoptionsordninger m.v. i ansættelsesforhold.'
+----
+5: 'Forslag til lov om ændring af ligningsloven og personskatteloven. (Permanent forhøjet befordringsfradrag i yderkommuner og på visse øer, indførelse af øfradrag i yderkommuner og på visse øer, fradrag for passage af Fjordforbindelsen Frederikssund, nedsættelse af bundskatten m.v.). Om forhøjet befordringsfradrag i yderkommuner og nedsættelse af bundskatten m.v.'
+----
+6: 'Forslag til lov om ændring af lov om inddrivelse af gæld til det offentlige, skatteforvaltningsloven og dødsboskatteloven.  (Ændringer med henblik på at understøtte overførsel af fordringer til nyt inddrivelsessystem, automatiseret modregning og håndtering af indbetalinger på gæld med retskrafttvivl eller mistanke om datafejl m.v.). Om ændringer vedrørende nyt inddrivelsessystem m.v.'
+----
+7: 'Forslag til lov om ændring af pensionsbeskatningsloven og lov om finansiel virksomhed. (Tidsbegrænset mulighed for afgiftsfrit at udtage unoterede kapitalandele og andele i alternative investeringsfonde, som forvaltes af en registreret forvalter, fra aldersopsparinger). Om tidsbegrænset mulighed for afgiftsfrit at udtage unoterede kapitalandele og andele i alternative investeringsfonde, som forvaltes af en registreret forvalter, fra medarbejderaktieordningen og smidiggørelse af forskellige pensionsbeskatningsregler m.v'
+----
+8: 'Forslag til lov om ændring af aktieavancebeskatningsloven og forskellige andre love. (Beskatning ved overdragelse af erhvervsvirksomheder til erhvervsdrivende fonde). Om beskatning ved overdragelse af erhvervsvirksomheder til erhvervsdrivende fonde.'
+----
+9: 'Forslag til lov om ændring af selskabsskatteloven. (Selskabsskattefritagelse af Danmarks Genopretningsfond). Om selskabsskattefritagelse af Danmarks Genopretningsfond.'
+----
+10: 'Forslag til lov om ændring af lov om inddrivelse af gæld til det offentlige, opkrævningsloven og forskellige andre love. (Modregning med opkrævningsfordringer og udskydelse af betalingsfrist ved banklukkedage m.v.). Om modregning med opkrævningsfordringer og udskydelse af betalingsfrist ved banklukkedage m.v.'
+----
+11: 'Forslag til lov om ændring af afskrivningsloven, ligningsloven, pensionsafkastbeskatningsloven og lov om afgift af svovl. (Forhøjelse af grænsen for straksafskrivning m.v., midlertidig forhøjelse af afskrivningsgrundlaget for nye driftsmidler, forlængelse af den midlertidige forhøjelse af fradrag for udgifter til forsøgs- og forskningsvirksomhed og forlængelse af bundfradrag i svovlafgiften). Om forhøjelse af grænsen for straksafskrivning m.v. midlertidig forhøjelse af afskrivningsgrundlaget for nye driftsmidler m.v.'
+----
+12: 'Forslag til lov om ændring af lov om ferie og lov om forvaltning og administration af tilgodehavende feriemidler med flere love. (Præcisering af antallet af fondsferiedage, indførelse af modregningsadgang, ensretning af rentebestemmelse og udbetaling fra fonden ved dødsfald m.v.). Om præcisering af antallet af fondsferiedage og andre ændringer på ferielovsområdet.'
+----
+13: 'Forslag til lov om ændring af afskrivningsloven og ligningsloven. (Midlertidig forhøjelse af fradrag for udgifter til forsøgs- og forskningsvirksomhed og af bundfradrag ved udlejning af fritidsboliger). Om midlertidig forhøjelse af fradrag for udgifter til forsøgs- og forskningsvirksomhed og af bundfradrag ved udlejning af fritidsboliger.'
+----
+14: 'Forslag til lov om ændring af pensionsbeskatningsloven og lov om finansiel virksomhed. (Tidsbegrænset mulighed for afgiftsfrit at udtage unoterede kapitalandele og andele i alternative investeringsfonde, som forvaltes af en registreret forvalter, fra aldersopsparinger). Om tidsbegrænset mulighed for afgiftsfrit at udtage unoterede kapitalandele og andele i alternative investeringsfonde, som forvaltes af en registreret forvalter, fra medarbejderaktieordningen og smidiggørelse af forskellige pensionsbeskatningsregler m.v'
+----
+------------------------------------
+Cluser ID: 7
+Top words: ['danmarks', 'lov', 'mv', 'markedsføring', 'team', 'ændring', 'forslag', 'finansiel', 'gennemførelse', 'investeringer', 'bestyrelse', 'atleternes', 'stemme', 'finansielle', 'styrkelse', 'virksomheder', 'danmark', 'staten', 'direkte', 'turismeudviklingsselskaber', 'overflytning', 'investorbeskyttelse', 'sammensætningen', 'turismeforum', 'fodbolduroligheder', 'initiativer', 'tilsyn', 'ændringer', 'investeringsforeninger', 'øget']
+Texts:
+0: 'Forslag til lov om ændring af lov om dansk turisme og lov om Visitdenmark. (Ændringer af sammensætningen af Det Nationale Turismeforum, overflytning af turismeudviklingsselskaber til staten samt styrket koordination af international markedsføring). Om ændringer af sammensætningen af Det Nationale Turismeforum, overflytning af turismeudviklingsselskaber til staten m.v.'
+----
+1: 'Forslag til lov om ændring af lov om finansiel virksomhed,\nlov om kapitalmarkeder og forskellige andre love. (Gennemførelse\naf anbefalingerne fra arbejdsgruppen for eftersyn\naf den finansielle regulering og ændring af reglerne for udpegning\naf SIFI’er i Danmark m.v.). Om regulering og ændring af reglerne for udpegning\naf SIFI’er i Danmark.'
+----
+2: 'Forslag til lov om ændring af lov om Danmarks Innovationsfond, lov om Danmarks Forsknings- og Innovationspolitiske Råd og Danmarks Frie Forskningsfond og lov om Danmarks Grundforskningsfond. (Justering af Danmarks Innovationsfonds formål og opgaver, henlæggelse af særlige virkemidler til fonden og justering af bestyrelsens kompetencer m.v.). Om justering af Danmarks Innovationsfonds formål og opgaver m.v.'
+----
+3: 'Forslag til lov om ændring af lov om markedsføring. (Forældelsesfrist for vildledende markedsføring af fast ejendom, kreditaftaler til finansiering af eller med sikkerhed i fast ejendom og løbende kontraktforhold med angivelse af varig pris). Om forældelsesfrist for vildledende markedsføring af fast ejendom m.v.'
+----
+4: 'Forslag til lov om ændring af lov om restrukturering og afvikling af visse finansielle virksomheder og ligningsloven. (Oprettelse af gældsrådsgivningsenhed i Finansiel Stabilitet som følge af aftale om erstatning m.v. til minkavlerne og følgeerhverv berørt af covid-19). Om restrukturering og afvikling af visse finansielle virksomheder og ligningsloven.'
+----
+5: 'Forslag til lov om ændring af lov om sikkerhed ved bestemte idrætsbegivenheder. (Gennemførelse af initiativer mod fodbolduroligheder). Om gennemførelse af initiativer mod fodbolduroligheder.'
+----
+6: 'Forslag til lov om ændring af lov om markedsføring. (Opdeling af fysiske og juridiske personer i forbrugerbegrebet, præcisering af bestemmelsen om aggressiv handelspraksis og tilpasning af samtykkekrav m.v.). Om opdeling af fysiske og juridiske personer i markedsføringslovens forbrugerbegreb m.v.'
+----
+7: 'Forslag til lov om ændring af lov om realkreditlån og realkreditobligationer m.v., lov om finansiel virksomhed og lov om et skibsfinansieringsinstitut. (Gennemførelse af direktiv om udstedelse af og offentligt tilsyn med dækkede obligationer og fastsættelse af overdækningskrav m.v. på baggrund af kapitalkravsforordningen (CRR)). Om gennemførelse af direktiv om udstedelse af og offentligt tilsyn med dækkede obligationer og fastsættelse af overdækningskrav m.v. på baggrund af kapitalkravsforordningen (CRR).'
+----
+8: 'Forslag til lov om ændring af lov om en garantifond for skadesforsikringsselskaber, lov om investeringsforeninger m.v., hvidvaskloven, lov om Danmarks Grønne Investeringsfond og forskellige andre love. (Øget investorbeskyttelse ved grænseoverskridende markedsføring af investeringer, oprettelse af gældsrådgivningsenhed i Finansiel Stabilitet som følge af aftale om erstatning m.v. til minkavlerne og følgeerhverv berørt af covid-19 og styrket tilsyn med aktører på det digitale marked for finansielle ydelser m.v.). Om øget investorbeskyttelse ved grænseoverskridende markedsføring af investeringer m.v.'
+----
+9: 'Forslag til lov om ændring af lov om finansiel virksomhed, lov om restrukturering og afvikling af visse finansielle virksomheder og lov om kapitalmarkeder og om ophævelse af lov om finansiel stabilitet. (Ændringer som følge af revision af kapitalkravsdirektivet (CRD V) og krisehåndteringsdirektivet (BRRD II) m.v.). Om revision af kapitalkravsdirektivet og krisehåndteringsdirektivet m.v.'
+----
+10: 'Forslag til lov om ændring af lov om sikkerhed ved bestemte idrætsbegivenheder. (Gennemførelse af initiativer mod fodbolduroligheder). Om gennemførelse af initiativer mod fodbolduroligheder.'
+----
+11: 'Forslag til lov om ændring af lov om finansiel virksomhed, lov om forvaltere af alternative investeringsfonde m.v., lov om investeringsforeninger m.v. og forskellige andre love. (Ændringer som følge af PEPP-forordningen, ændring af reglerne for outsourcing og præcisering af reglerne om forsikringsmægleres uafhængighed). Om investeringsfonde, outsourcing og forsikringsmægleres uafhængighed m.v.'
+----
+12: 'Forslag til lov om ændring af lov om finansiel virksomhed, lov om betalinger, lov om kapitalmarkeder, lov om investeringsforeninger m.v. og selskabsloven og forskellige andre love. (Direkte debitering, håndtering af erstatningskrav i henhold til en byggeskadeforsikring tegnet i Qudos Insurance A/S, whistleblowerordning for virksomheder med begrænset tilladelse, revisors meddelelsespligt til Finanstilsynet og ændring af procedure ved indløsning af minoritetsaktionærer m.v.). Om direkte debitering og whistleblowerordning for virksomheder med begrænset tilladelse m.v.'
+----
+13: 'Forslag til lov om ændring af lov om dansk turisme og lov om Visitdenmark. (Ændringer af sammensætningen af Det Nationale Turismeforum, overflytning af turismeudviklingsselskaber til staten samt styrket koordination af international markedsføring). Om ændringer af sammensætningen af Det Nationale Turismeforum, overflytning af turismeudviklingsselskaber til staten m.v.'
+----
+14: 'Forslag til lov om screening af visse udenlandske direkte investeringer m.v. i Danmark (investeringsscreeningsloven). Om screening af visse udenlandske direkte investeringer m.v. i Danmark.'
+----
+------------------------------------
+Cluser ID: 8
+Top words: ['autorisation', 'lov', 'sundhedspersoner', 'mv', 'ændring', 'sundhedsfaglig', 'forslag', 'medicinsk', 'sundhedsloven', 'virksomhed', 'behandling', 'betaling', 'reaktionsmulighed', 'registreringsgebyr', 'tatoveringsområdet', 'journalføringsreglerne', 'ambulancebehandlere', 'manglende', 'sundhedsvæsenet', 'markedsovervågningsforordningen', 'tilknytning', 'personer', 'bestemmelser', 'samt', 'apoteksvirksomhed', 'kunstig', 'hymen', 'tatovering', 'konstruktion', 'tilskudsordning']
+Texts:
+0: 'Forslag til lov om ændring af lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, lov om apoteksvirksomhed, sundhedsloven og forskellige andre love. (Autorisation af ambulancebehandlere og registrering af ambulancebehandlere med særlig kompetence (paramedicinere), opgavespecifik autorisation af behandlerfarmaceuter, genordination af receptpligtig medicin, ordination af dosisdispensering med tilskud, organisatorisk ansvar m.v.). Om autorisation af ambulancebehandlere m.v.'
+----
+1: 'Forslag til lov om ændring af lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, lov om apoteksvirksomhed, sundhedsloven og forskellige andre love. (Autorisation af ambulancebehandlere og registrering af ambulancebehandlere med særlig kompetence (paramedicinere), opgavespecifik autorisation af behandlerfarmaceuter, genordination af receptpligtig medicin, ordination af dosisdispensering med tilskud, organisatorisk ansvar m.v.). Om autorisation af ambulancebehandlere m.v.'
+----
+2: 'Forslag til lov om ændring af sundhedsloven, lov om klage- og erstatningsadgang inden for sundhedsvæsenet, lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed og lov om virksomhedsansvarlige læger og tandlæger. (Oprettelse af Ankenævnet for Tilsynsafgørelser og Det Rådgivende Udvalg for Tilsyn, lovfæstelse af Fagligt Forum for Patientsikkerhed, øget beskyttelse af personer ved rapportering af utilsigtede hændelser, krav om instrukser, sprogkrav til sundhedspersoner, forenkling af reglerne om virksomhedsansvarlige læger og tandlæger, dispensation fra fristen for indgivelse af ansøgning om autorisation som kontaktlinseoptiker m.v.). Om oprettelse af Ankenævnet for Tilsynsafgørelser og det Rådgivende udvalg for Tilsyn og andre ændringer på sundhedsområdet m.v.'
+----
+3: 'Forslag til lov om ændring af lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, lov om tobaksvarer m.v., lov om elektroniske cigaretter m.v. og forskellige andre love. (Ændring af journalføringsreglerne, reaktionsmulighed ved manglende betaling af registreringsgebyr på tatoveringsområdet og supplerende bestemmelser i tilknytning til markedsovervågningsforordningen samt lovtekniske ændringer i psykiatriloven og strålebeskyttelsesloven). Om ændring af journalføringsreglerne, reaktionsmulighed ved manglende betaling af registreringsgebyr på tatoveringsområdet m.v.'
+----
+4: 'Forslag til lov om ændring af sundhedsloven og lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed. (Styrket indsats på høreapparatområdet). Om styrket indsats på høreapparatområdet.'
+----
+5: 'Forslag til lov om ændring af lov om assisteret reproduktion i forbindelse med behandling, diagnostik og forskning m.v. (Ændring af den tilladte opbevaringsperiode for menneskelige æg udtaget på medicinsk indikation). Om ændring af opbevaringsperiode for menneskelige æg udtaget på medicinsk indikation m.v.'
+----
+6: 'Forslag til lov om ændring af lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed. (Regulering af nåleakupunktur på brystkassen og forbud mod konstruktion af en kunstig hymen (jomfruhinde)). Om regulering af nåleakupunktur på brystkassen og forbud mod konstruktion af en kunstig hymen.'
+----
+7: 'Forslag til lov om ændring af lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed. (Regulering af nåleakupunktur på brystkassen). Om regulering af nåleakupunktur på brystkassen.'
+----
+8: 'Forslag til lov om ændring af lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed. (Udvidelse af virksomhedsområdet for tandplejere). Om udvidelse af virksomhedsområdet for tandplejere.'
+----
+9: 'Forslag til lov om ændring af lov om klage- og erstatningsadgang inden for sundhedsvæsenet og sundhedsloven. (Begrænsning af ressourcereglen ved kræftscreeninger, udvidelse af lægemiddelskadeordningen i nød- og beredskabssituationer m.v.). Om begrænsning af ressourcereglen ved kræftscreeninger m.m.'
+----
+10: 'Forslag til lov om ændring af lov om lægemidler. (Flytning af inspektionsopgaver fra Lægemiddelstyrelsen til Sikkerhedsstyrelsen). Om flytning af inspektionsopgaver fra Lægemiddelstyrelsen til Sikkerhedsstyrelsen m.v.'
+----
+11: 'Forslag til lov om ændring af lov om plantenyheder og lov om planter og plantesundhed m.v. (Opgaver i forbindelse med sortslistegodkendelse og certificering, herunder delegation til private aktører, og gebyrfinansiering af visse af opgaverne). Om plantenyheder og opgaver i forbindelse med sortlistegodkendelse m.v.'
+----
+12: 'Forslag til lov om ændring af lov om autorisation af sundhedspersoner og om sundhedsfaglig virksomhed, lov om tobaksvarer m.v., lov om elektroniske cigaretter m.v. og forskellige andre love. (Ændring af journalføringsreglerne, reaktionsmulighed ved manglende betaling af registreringsgebyr på tatoveringsområdet og supplerende bestemmelser i tilknytning til markedsovervågningsforordningen samt lovtekniske ændringer i psykiatriloven og strålebeskyttelsesloven). Om ændring af journalføringsreglerne, reaktionsmulighed ved manglende betaling af registreringsgebyr på tatoveringsområdet m.v.'
+----
+13: 'Forslag til lov om ændring af lov om videnskabsetisk behandling af sundhedsvidenskabelige forskningsprojekter, sundhedsloven, lov om klage- og erstatningsadgang inden for sundhedsvæsenet og lægemiddelloven. (Styrkelse af borgernes tryghed og tillid til sundhedsforskning samt forbedrede rammer for sundhedsforskning). Om styrkelse af borgernes tryghed og tillid til sundhedsforskning m.v.'
+----
+14: 'Forslag til lov om ændring af sundhedsloven. (Bedre digitalt samarbejde i sundhedsvæsenet, påmindelser til forældre vedrørende børnevaccination og bestemmelser om territorial gyldighed for Færøerne og Grønland). Om digitalt samarbejde i sundhedsvæsenet, børnevaccination og bestemmelser om territorial gyldighed for Færøerne og Grønland m.v.'
+----
+------------------------------------
+Cluser ID: 9
+Top words: ['miljøbeskyttelse', 'lov', 'ændring', 'forslag', 'fast', 'havbrug', 'digital', 'naturbeskyttelse', 'adgang', 'visse', 'nedlæggelse', 'ejerskifte', 'brændsel', 'udskiftning', 'planer', 'arealer', 'etablere', 'naturnationalparker', 'fyringsanlæg', 'pligt', 'ejendom', 'obligatorisk', 'kommunikation', 'miljøvurdering', 'programmer', 'projekter', 'konkrete', 'kvælstofpulje', 'kystbeskyttelse', 'vvm']
+Texts:
+0: 'Forslag til lov om ændring af miljøskadeloven og lov om miljøbeskyttelse og forskellige andre love. (Ændring af handlepligten for den ansvarlige for en miljøskade, indførelse af godtgørelsesordning samt ændring af definitionen af arter og naturtyper). Om handlepligten for den ansvarlige for en miljøskade og ændring af definitionen af arter og naturtyper m.v.'
+----
+1: 'Forslag til lov om ændring af lov om miljøbeskyttelse. (Implementering af affaldsdirektivets minimumskrav til eksisterende udvidede producentansvarsordninger, indførelse af udvidet producentansvar for emballage og modernisering af indsamling og behandling af elektronikaffald).  Om implementering af affaldsdirektivets minimumskrav til eksisterende udvidede producentansvarsordninger m.v.'
+----
+2: 'Forslag til lov om ændring af lov om naturbeskyttelse. (Kommunal adgang til at begrænse sejlads med visse hurtigtsejlende fartøjer ved udlagte badeområder). Om kommunal adgang til at begrænse sejlads med visse hurtigtsejlende fartøjer ved udlagte badeområder.'
+----
+3: 'Forslag til lov om ændring af lov om miljøbeskyttelse. (Pligt til udskiftning eller nedlæggelse af visse fyringsanlæg til fast brændsel ved ejerskifte af fast ejendom). Om pligt til udskiftning eller nedlæggelse af visse fyringsanlæg til fast brændsel ved ejerskifte af fast ejendom.'
+----
+4: 'Forslag til lov om ændring af lov om miljøbeskyttelse. (Udtagning af kvælstofpulje til havbrug og reduktion af samlet kvælstofpulje til miljø- og ressourceeffektive dambrug). Om udtagning af kvælstofpulje til havbrug m.v.'
+----
+5: 'Forslag til lov om ændring af lov om miljøvurdering af planer og programmer og af konkrete projekter (VVM) og lov om husdyrbrug og anvendelse af gødning m.v. (Implementering af VVM-direktivet). Om implementering af VVM-direktivet.'
+----
+6: 'Forslag til lov om ændring af lov om kystbeskyttelse m.v., lov om miljøvurdering af planer og programmer og af konkrete projekter (VVM) og lov om planlægning. (Mulighed for at afskære klageadgang i kommunale fællesprojekter om kystbeskyttelse). Om mulighed for at afskære klageadgang i kommunale fællesprojekter om kystbeskyttelse.'
+----
+7: 'Forslag til lov om ændring af lov om miljøbeskyttelse. (Ophævelse af bestemmelser om kompenserende marine virkemidler ved etablering eller udvidelse af havbrug). Om ophævelse af bestemmelser om kompenserende marine virkemidler ved etablering eller udvidelse af havbrug.'
+----
+8: 'Forslag til lov om ændring af lov om miljøbeskyttelse. (Skærpede miljøzonekrav til tunge køretøjer og varebiler). Om skærpede miljøzonekrav til tunge køretøjer og varebiler.'
+----
+9: 'Forslag til folketingsbeslutning om at give kommunerne bemyndigelse til ud fra en helhedsvurdering at kunne afslå ansøgninger om udvidelse af husdyrproduktion. Om at give kommunerne bemyndigelse til ud fra en helhedsvurdering at kunne afslå ansøgninger om udvidelse af husdyrproduktion.'
+----
+10: 'Forslag til lov om ændring af lov om miljøbeskyttelse. (Ophævelse af affaldsadministrationsgebyret for virksomheder).  Om ophævelse af affaldsadministrationsgebyret for virksomheder.'
+----
+11: 'Forslag til lov om ændring af lov om naturbeskyttelse og straffeloven. (Strafskærpelse for visse overtrædelser af CITES-regler). Om strafskærpelse for visse overtrædelser af CITES-regler.'
+----
+12: 'Forslag til lov om ændring af lov om planlægning, lov om midlertidig regulering af boligforholdene og lov om maritim fysisk planlægning. (Frist ved udlæg af sommerhusområder, kommuneplanredegørelse for Grønt Danmarkskort, overførsel af fleksboligordningen og mulighed for at vedtage planer eller meddele tilladelse m.v. efter offentliggørelse af forslag til havplan m.v.). Om udlæg af sommerhusområder m.v.'
+----
+13: 'Forslag til lov om ændring af lov om miljøbeskyttelse og lov om Sund og Bælt Holding A/S. (Digital håndhævelse af miljøzoner og ændring af trinkrav for lastbiler og busser). Om digital håndhævelse af miljøzoner og ændring af trinkrav for lastbiler og busser.'
+----
+14: 'Forslag til lov om ændring af lov om naturbeskyttelse, lov om skove, dyrevelfærdsloven, lov om mark- og vejfred og færdselsloven. (Adgang til at etablere naturnationalparker og obligatorisk digital kommunikation m.v.). Om adgang til at etablere naturnationalparker og obligatorisk digital kommunikation m.v.'
+----
+------------------------------------

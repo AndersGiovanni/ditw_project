@@ -1,0 +1,272 @@
+Cluser ID: 0
+Top words: ['#dkpol', 'søren', 'rasmussen', 'poulsen', 'pernille', 'lars', 'løkke', 'pape', 'rasmus', 'skipper', 'morten', 'henriksen', 'martin', 'pind', 'peter', 'mette', 'østergaard', 'stampe', 'zenia', 'prehn', 'mark', 'samuelsen', 'jacob', 'anders', 'abildgaard', 'kristensen', 'berth', 'heunicke', 'krag', 'olsen']
+Texts:
+0: '1) Lars Løkke Rasmussen\n2) Lars Løkke Rasmussen\n3) Zenia Stampe\n\nhttps://t.co/rBaROSZ6hU | #dkpol'
+----
+1: '1) Mette Frederiksen\n2) Søren Pape Poulsen\n3) Peter Kofod - Dansk Folkeparti\n\nhttps://t.co/rBaROSZ6hU | #dkpol'
+----
+2: '1) Zenia Stampe\n2) Martin Henriksen\n3) Bertel Haarder\n\nhttps://t.co/rBaROSZ6hU | #dkpol'
+----
+3: '1) Søren Pind\n2) Magnus Heunicke\n3) Rasmus Prehn\n\nhttps://t.co/rBaROSZ6hU | #dkpol'
+----
+4: '1) Pernille Skipper\n2) Jacob Mark\n3) Søren Pind\n4) Astrid Krag\n\nhttps://t.co/rBaROSZ6hU | #dkpol'
+----
+5: '1) Søren Pape Poulsen\n2) Pernille Rosenkrantz-Theil\n3) Morten Bødskov\n\nhttps://t.co/rBaROSZ6hU | #dkpol'
+----
+6: '1) Lise Bech - Dansk Folkeparti\n2) Magnus Heunicke\n3) Rasmus Prehn\n\nhttps://t.co/rBaROSZ6hU | #dkpol'
+----
+7: '1) Søren Pape Poulsen\n2) Pernille Rosenkrantz-Theil\n3) Søren Pind\n\nhttps://t.co/rBaROSZ6hU | #dkpol'
+----
+8: '1) Anders Samuelsen\n2) Peter Hummelgaard Thomsen\n3) Rasmus Jarlov\n\nhttps://t.co/rBaROSZ6hU | #dkpol'
+----
+9: '1) Søren Pind\n2) Henrik Dam Kristensen\n3) Magnus Heunicke\n4) Rasmus Prehn\n\nhttps://t.co/rBaROSZ6hU | #dkpol'
+----
+10: '1) Peter Skaarup\n2) Mette Frederiksen\n3) Søren Pind\n4) Trine Bramsen\n\nhttps://t.co/rBaROSZ6hU | #dkpol'
+----
+11: '1) Lars Løkke Rasmussen\n2) Zenia Stampe\n3) Astrid Krag\n\nhttps://t.co/rBaROSZ6hU | #dkpol'
+----
+12: '1) Pernille Skipper\n2) Jacob Mark\n3) Marcus Knuth\n4) Simon Kollerup\n\nhttps://t.co/rBaROSZ6hU | #dkpol'
+----
+13: '1) Rasmus Prehn\n2) Anders Samuelsen\n3) Jesper Petersen\n4) Christian Poll\n\nhttps://t.co/rBaROSZ6hU | #dkpol'
+----
+14: '1) Lars Løkke Rasmussen\n2) Maria Reumert Gjerding\n3) Torsten Gejl\n\nhttps://t.co/rBaROSZ6hU | #dkpol'
+----
+------------------------------------
+Cluser ID: 3
+Top words: ['#mongotube', 'mongotv', '#mongotv', '#svpol', '#kbhpol', '#dkmedier', '#ftlive', '#dkpol', '#mongogames', '#online', '#nopol', 'part', '#sundpol', 'del', '#mongogamesse', 'eco', 'my', '#space', '#kroner', '#pakker', '#first', '#sound', '#kasser', '#mad', '#no', '#engineers', '#time', '#mongogameseco', 'købt', 'day']
+Texts:
+0: '#MongoTV\nMongoTV_1389 - Part 1 - #Space #Engineers - Getting Started On #Moon #Base. \n\n#MongoGamesSE #MongoGames #MongoTube #DkPol #FtLive #KbhPol #SvPol #DkMedier\nhttps://t.co/Vt1dB3xa3z'
+----
+1: '#MongoTV\nMongoTV_4513 - #Husleje - #Regninger - #Afdrag #Online #Lån Betales imorgen #Onsdag 1.#April 2020.\n\n#MongoTube #DkMedier #KbhPol #DkPol #SundPol #NoPol #SvPol\nhttps://t.co/UIqhDT48f4'
+----
+2: '#MongoTV\nMongoTV_4512 - Del 2 - #Pakker 12 #Kasser #Mad Op Købt #Online For 1.100 #Kroner.\n\n#MongoTube #DkMedier #KbhPol #DkPol #SundPol #NoPol #SvPol\nhttps://t.co/M72t2BWDEi'
+----
+3: 'MongoTV_1024 - Part 4 - #ECO - #PIZZA - - Public Server ECO World - Day 4 - #Olsen #Island. \n\n#MongoGamesECO #MongoGames #MongoTube #DkMedier #DkPol #KbhPol #SvPol\nhttps://t.co/9hVZxyjFzQ'
+----
+4: "#MongoTV\nMongoTV_1118 - Part 1 - ECO - HOW TO #PLAY #ECO #GAME - G's #BIG #PLAYGROUND - Day 3. \n\n#MongoGamesECO #MongoGames #MongoTube #DkPol #FtLive #KbhPol #SvPol #DkMedier\nhttps://t.co/Avhix5nxsr"
+----
+5: 'Få dig et #job, og nogen #venner? - #Casper Besvarer \n\n#MongoTube #DkPol #FtLive #KbhPol #SvPol #DkMedier\nhttps://t.co/zvMxnTXhIt'
+----
+6: '#MongoTV\nMongoTV_1390 - Part 2 - #Space #Engineers - My #First #Time #Online - #NO #SOUND.\n\n#MongoGamesSE #MongoGames #MongoTube #DkPol #FtLive #KbhPol #SvPol #DkMedier\nhttps://t.co/8j7UQ6VJx0'
+----
+7: '#MongoTV \nMongoTV_6459 - #TELT I MIN #STUE - Del 18 - JEG VIL HAVE ET #STORT TELT.\n\n#DkPol #SvPol #NoPol #KbhPol #dkmedier \nhttps://t.co/n1VwQnaSkK'
+----
+8: '#DAPofTheDay \n\nNew @legal_porno #DoubleAnal scene with  #SaraSlave 🔥👿😍😜\n\n➡️  https://t.co/QS1usu8Yk3\n\n#DAP #dkpol https://t.co/A5Hi6IzO9K'
+----
+9: '#MongoTV\nMongoTV_956 - Part 1 - ECO - HYGGE World - My First Day In ECO Game.\n \n#MongoGamesECO #MongoGames #MongoTube #DkMedier #DkPol #SvPol\nhttps://t.co/VpvDc7E23h'
+----
+10: 'CASPER BESVARER 50 #SPØRGSMÅL - Too Much #Information - #Casper #Besvarer. \n\n#MongoTube #DkPol #FtLive #KbhPol #SvPol #DkMedier\nhttps://t.co/XTQDUJb1G0'
+----
+11: '#MongoTV\nMongoTV_4349 - Del 114 - FORBEREDER MIG PÅ #CORONAVIRUS #UDBRUD I #KØBENHAVN - 2.860 Smittet i #Danmark.\n\n#MongoTube #DkMedier #KbhPol #DkPol #SundPol #NoPol #SvPol\nhttps://t.co/7cMStltGPe'
+----
+12: 'Cirka 1800-1890: Château d’If\n\n1934-1963: Alcatraz\n\n2018-?: Lindholm \n\n#dkpol'
+----
+13: 'Kom forbi på lørdag. Se link: https://t.co/tk3FVXIPaV #Integration #dkpol #journey #home #woman #kvinder #voice #Refugees #flygtninge #dk #uk https://t.co/hjZlsiVAJO'
+----
+14: '#MongoTV\nMongoTV_4512 - Del 1 - #Pakker 12 #Kasser #Mad Op Købt #Online For 1.100 #Kroner.\n\n#MongoTube #DkMedier #KbhPol #DkPol #SundPol #NoPol #SvPol\nhttps://t.co/P6uspifGZD'
+----
+------------------------------------
+Cluser ID: 4
+Top words: ['populær', '#dkpol', '@buplformand', '🙃', '@sofiecn', '@pomaeb', '@rasmusnordqvist', '@kildegaardens', '@forsvarsmin', '@socialized_dk', '@idaauken', '@anderskoustrupk', '@simonpihl', '@rasmuspaludan', '@sikandasiddique', '@smserup', '@uffeelbaek', '@skaarup_df', '@bossestine', '@alternativet_', '@politologidk', '@johanbslunoe', 'bror', '@slothkristian', '@maltekjems', '@mmelchiorsen', '@systemaddict', 'samffag', '@curtliliegreen', '@jonasherby']
+Texts:
+0: 'Lige nu er @Anderskoustrupk populær på #dkpol https://t.co/SAFmaPELC8'
+----
+1: 'Lige nu er @RasmusPrehn populær på #dkpol https://t.co/z0oBb6v7vn'
+----
+2: 'Lige nu er @soolu03 populær på #dkpol https://t.co/wI8DUSRPMz'
+----
+3: 'Lige nu er @Kristianthdahl populær på #dkpol https://t.co/45ZqWgPTof'
+----
+4: 'Lige nu er @larswerge populær på #dkpol https://t.co/Eh7i8ntbBb'
+----
+5: 'Fordi man har det kan man altid ændre på det #dkpol https://t.co/6lwCkLsMXK'
+----
+6: 'Lige nu er @SorenEggeRasmus populær på #dkpol https://t.co/rjXZIeK5xq'
+----
+7: 'Lige nu er @mfMorten populær på #dkpol https://t.co/i6xFpos1vp'
+----
+8: 'Lige nu er @LarsSandahlS populær på #dkpol https://t.co/UJ4DdJqROh'
+----
+9: 'Lige nu er @maltekjems populær på #dkpol https://t.co/KDFmMZj6bS'
+----
+10: 'Lige nu er @skaarup_df populær på #dkpol https://t.co/VMxoYDnWS4'
+----
+11: 'Lige nu er @SikandaSIDDIQUE populær på #dkpol https://t.co/mCtOAASxw9'
+----
+12: 'Lige nu er @niels_rohleder populær på #dkpol https://t.co/R8C8ViETHd'
+----
+13: 'Lige nu er @alternativet_ populær på #dkpol https://t.co/4GzgOS7bNJ'
+----
+14: 'Lige nu er @sofiecn populær på #dkpol https://t.co/U88UUqB52c'
+----
+------------------------------------
+Cluser ID: 6
+Top words: ['#faroeislands', '#whaling', '#seashepherd', '#animalcruelty', '#dolphins', '#grindadrap', '#stopthegrind', '#boycottfaroeislands', '#ecocide', '#boycottdenmark', '#seaspiracy', '#opbloodyfjords', 'the', 'project', '#dkpol', 'from', 'of', 'put', '@nordenen', 'nordics', 'nordic', 'elsewhere', 'mind', 'a', 'help', 'here', 'front', 'can', 'is', 'world']
+Texts:
+0: '#grindadrap #seashepherd #dolphins #stopthegrind #faroeislands #animalcruelty #dkpol #seaspiracy #ecocide #OpBloodyFjords #whaling #BoycottFaroeIslands #BoycottDenmark https://t.co/4Wp4McRIh3 https://t.co/zRGc3PbOCx'
+----
+1: '#Syria\n#NATO\n#UN\n#eupol #dutch #czech #auspol #cndpoli #svpoli #dkpol #ukpol #poland #france #hungary #germany #brussels #sweden #finland #latvia #kiev #ukraine #russia #norway #greece #bulgaria #serbia #moldova https://t.co/scnv0FFh28'
+----
+2: '@EU_Commission\n@Europarl_EN\n@Earthwatch_Eur\n@UNEP_Europe\n@EU_ENV\n@HELCOMInfo\n@NAMMCO_sec\n@Faroes2EU\n@IUCNCetaceanSG\n@iwc_int \n@marinemammalogy\n#grindadrap #seashepherd #dolphins #stopthegrind #faroeislands #animalcruelty #dkpol #seaspiracy #ecocide #whaling #BoycottFaroeIslands https://t.co/7rrktoqFCK'
+----
+3: '#grindadrap #seashepherd #dolphins #stopthegrind #faroeislands #animalcruelty #dkpol #seaspiracy #ecocide #OpBloodyFjords #whaling #BoycottFaroeIslands #BoycottDenmark https://t.co/lKHAgWriq0 https://t.co/BiizPmiK0J'
+----
+4: '#grindadrap #seashepherd #dolphins #stopthegrind #faroeislands #animalcruelty #dkpol #seaspiracy #ecocide #OpBloodyFjords #whaling #BoycottFaroeIslands #BoycottDenmark https://t.co/iWm03gqh83'
+----
+5: '#grindadrap #seashepherd #dolphins #stopthegrind #faroeislands #animalcruelty #dkpol #seaspiracy #ecocide #OpBloodyFjords #whaling #BoycottFaroeIslands #BoycottDenmark https://t.co/Uz77066FGL'
+----
+6: '@sjurdur A fundamental condemnation of the so-called tradition of #grindadrap would be essential.  \n#seashepherd #dolphins #stopthegrind #faroeislands #animalcruelty #dkpol #seaspiracy #ecocide #OpBloodyFjords #whaling #BoycottFaroeIslands #BoycottFaroeIslandSalmon #BoycottDenmark https://t.co/f2LVSUR6ve'
+----
+7: '@nordenen \n Here is the Nordic project from #FaroeIslands !  A project that can help put the Nordics front of mind elsewhere in the world! #grindadrap #seashepherd #dolphins #stopthegrind  #animalcruelty #dkpol #seaspiracy #ecocide  #whaling #BoycottFaroeIslands #BoycottDenmark https://t.co/Q19IINkSEB'
+----
+8: '@nordenen \nHere is the Nordic project from #FaroeIslands !  A project that can help put the Nordics front of mind elsewhere in the world! #grindadrap #seashepherd #dolphins #stopthegrind  #animalcruelty #dkpol #seaspiracy #ecocide  #whaling #BoycottFaroeIslands #BoycottDenmark https://t.co/J3ovuZ6i2Y'
+----
+9: '#grindadrap #seashepherd #dolphins #stopthegrind #faroeislands #animalcruelty #dkpol #seaspiracy #ecocide #OpBloodyFjords #whaling #BoycottFaroeIslands #BoycottDenmark https://t.co/7rrktoqFCK'
+----
+10: '#grindadrap #seashepherd #dolphins #stopthegrind #faroeislands #animalcruelty #dkpol #seaspiracy #ecocide #OpBloodyFjords #whaling #BoycottFaroeIslands #BoycottDenmark https://t.co/EkLtFEh0sd https://t.co/zRGc3PbOCx'
+----
+11: '#grindadrap #seashepherd #dolphins #stopthegrind #faroeislands #animalcruelty #dkpol #seaspiracy #ecocide #OpBloodyFjords #whaling #BoycottFaroeIslands #BoycottDenmark https://t.co/bL5QqJ0ylv'
+----
+12: '@billareisen \nPlease refrain from travelling to the #FaroeIslands!\n#grindadrap #seashepherd #dolphins #stopthegrind #animalcruelty #dkpol #seaspiracy #ecocide #OpBloodyFjords #whaling #BoycottFaroeIslands #BoycottDenmark \n\nhttps://t.co/rceHchxRn6'
+----
+13: '#grindadrap #seashepherd #dolphins #stopthegrind #faroeislands #animalcruelty #dkpol #seaspiracy #ecocide #OpBloodyFjords #whaling #BoycottFaroeIslands #BoycottDenmark https://t.co/CsvH2TuDi8'
+----
+14: '@nordenen @faroeislandsfo @DanishMFA @SweMFA @MFAIceland @NorwayMFA @visitaland @GreenlandMFA @iceland @The_Nordics Here is the Nordic project from #FaroeIslands ! A project that can help put the Nordics front of mind elsewhere in the world! #grindadrap #seashepherd #dolphins #stopthegrind #animalcruelty #dkpol #ecocide #whaling #BoycottFaroeIslands #BoycottDenmark \nhttps://t.co/Eyf9Q6CXwH'
+----
+------------------------------------
+Cluser ID: 7
+Top words: ['the', 'of', '#dkpol', 'and', 'in', 'a', 'is', '#iran', '#dkmedier', 'on', 'you', '@dwnews', '#freeiran', '#pmoi', 'are', '@usadarfarsi', '#istandwithmaryamrajavi', '#iranregimechange', 'it', 'not', '#euco', '@germanydiplo', '#timmermans', '#istandwiththetruth', 'charles', '@statedept', '#svpol', 'denmark', '#dkgreen', '’']
+Texts:
+0: '#Iran’s Prosecutor Dismisses Hijab Protesters as Childish and Ignorant  STOP #HumanRightsViolation #FreeAllProtesters #FreeIran2018 #WomensMarch2018 IranOpposition #dkpol #ZDF #eupol https://t.co/k7R8YFtgUW #IranWire'
+----
+1: "The new Danish government's political promise cannot be mentioned often enough  #dkpol. It will be interesting to follow the next steps for gender equality and women's rights.\n\nThank you @JoannaMaycock @EuropeanWomen https://t.co/YnbhpvZrIr"
+----
+2: '#IranRegimeChange #FreeIran #Iran #IStandWithTheTruth #IStandWithMaryamRajavi #PMOI #EUCO #INDvENG #Freibad #Timmermans Charles @dwnews @USAdarFarsi #dkpol #dkgreen #dkmedier @StateDept @GermanyDiplo @francediplo_EN @DanishMFA @france @canadafreepress @CanadaIran https://t.co/qCFA00QvaU'
+----
+3: '#IranRegimeChange #FreeIran #Iran #IStandWithTheTruth #IStandWithMaryamRajavi #PMOI #EUCO #INDvENG #Timmermans Charles @dwnews @USAdarFarsi #dkpol #dkgreen #dkmedier @StateDept @GermanyDiplo @francediplo_EN @DanishMFA @canadafreepress #March4RegimeChangeByIranians https://t.co/sOWtdnyUul'
+----
+4: 'The DM Mette Frederiksen should start listning to science, instead of behaving like Trump.\n\nDenmarks ruling party, @Spolitik, are a nationalistic, populist and anti climate-friendly party, pretending to be the opposite. Shameful \n\n#dkpol #climatechange \n\nhttps://t.co/aGu4WANDDu'
+----
+5: 'Der bliver ikke noget kød på julebordet til vinterfesten i #Ikea, Storbritannien næ nej.\n\nThe Swedish furniture giant will offer only #vegan and #vegetarian festive dishes in its restaurants over the #Christmas period\nhttps://t.co/jj5GqYjqbT\n#øføf #jul #dkpol  🐷'
+----
+6: 'EU Set to Sanction More Iranians for Rights Abuses, First Since 2013, Diplomats Say \nSTOP #HumanRightsViolations in #Iran NOW! #Nowruz #WeStand4FreeIran #Time4FirmIranPolicy #IranRegimeChange #NoImpunity4Mullahs God Påske! Easter #IranProtests Jesus #dkpol\nhttps://t.co/TrwhzqPH3a'
+----
+7: '@realDonaldTrump Please stay away from #Denmark - you are NOT welcome! #dkpol #dkmedier'
+----
+8: 'I am voting on a male in #dkpol next.. Voted only on females so far ever.. Last election was the last one.  #dkmedier \n\nTaking more power for females only, not stepping up for male Danes..'
+----
+9: '#IranRegimeChange #FreeIran #Iran #IStandWithTheTruth #IStandWithMaryamRajavi #PMOI #EUCO #Timmermans Charles @dwnews @USAdarFarsi #dkpol #dkgreen #dkmedier @StateDept @GermanyDiplo @francediplo_EN @DanishMFA @canadafreepress #March4RegimeChangeByIranians #freeCarolaRackete https://t.co/wzaNH4W3GE'
+----
+10: '#IranRegimeChange #FreeIran #Iran #IStandWithTheTruth #IStandWithMaryamRajavi #PMOI #EUCO #Timmermans Charles @dwnews @USAdarFarsi #dkpol #dkgreen #dkmedier @StateDept @GermanyDiplo @francediplo_EN @DanishMFA @canadafreepress #March4RegimeChangeByIranians #freeCarolaRackete https://t.co/IdUAOMgFzA'
+----
+11: 'Men fra 21/11 forværredes smittetransmisionsraten yderligere til Rt=1,53 den 23/11\n\n#dkpol #sundpol #covid19dk https://t.co/wdb4sunxI9'
+----
+12: 'Let’s keep it up and be the role model for the rest of the world. Denmark again heads the overall ranking, thanks to its strong constraints on ruling politicians, the absence of corruption, strong fundamental freedoms and low civil strife. #dkpol https://t.co/jGclM3Evyk'
+----
+13: 'Men 21/11 øges smittetransmissionsraten så Rt=1,31\n\n#dkpol #sundpol #covid19dk https://t.co/StdYr69Kiw'
+----
+14: "#WesternSahara community can't be represented by #polisario cold war guerrilla whose members are recruited by terrorist groups in #GreatSahara &amp; #Sahel. Absolutely NO!\n\n#SaharaOccidental #MoroccanSahara \n\n#eupol #euco #europe #europa #EU #UE \n#CJEU #CJUE #ECJ \n#svpol #dkpol https://t.co/zHL5alwDwo"
+----
+------------------------------------
+Cluser ID: 8
+Top words: ['#dkpol', '#dkmedier', '”', 'danmark', '“', '#dkgreen', '@spolitik', 'år', 's', 'tak', '’', 'danske', 'går', '️', 'siger', 'børn', '@larsloekke', 'dag', '#dkbiz', 'dk', 'gang', '@regeringdk', 'nye', 'hele', 'folk', '#sundpol', '@venstredk', 'mennesker', 'df', 'regeringen']
+Texts:
+0: 'Det her er det værste. Fattige børn alene fordi deres forældre er flygtninge. Intet bliver billigere for dem end alle os andre. Det marginaliserer dem og splitter os som samfund #dkpol https://t.co/dZLtJcVdqr'
+----
+1: '@Anderskoustrupk Arg...Vi får jo ikke noget nyt frem - og koster kassen! Fogh fik lokket et halvt Folketing - dvs. blå #dkpol med på en krig (90 mandater!) som Blair i UK - på falske forudsætninger. At det også fremmede Foghs internationale karriere - let it be! :-)!'
+----
+2: 'Moral og det gode er det som menneske søger som mål, desværre er der også mange med en agenda som end ikke begriber ordet. Mange magthavere, både individuelle og organsationer har deres agendaer, som selv om de fremstiller sig som gode er alt andet end. #moral #dkpol'
+----
+3: 'Det ville være lettere at spørge, om der var nogen der ikke var.. #dkpol finder sig ikke i at blive diskuteret med. Overhovedet! https://t.co/VMfjfiAWSi'
+----
+4: '@RasmusJarlov @metteabildgaard Sågar @DR2deadline har blokeret mig - frodi de ikke brød sig om at få kritik af deres udsendelser. Gå ind på deres brugerprofil - de tilføjede noget om “anonyme” til min ære. Ja, dårlige undskyldninger er der nok af. #dkpol #dkmedier'
+----
+5: '@JaEmDa66 Borgere på overførselsindkomst koster omkring 300 mia. \n\nI modsætning til hvad venstrefløjen føler, er økologisk drift værre for miljø, dyrevelfærd, biodiversitet og arealanvendelse.\n\n#dkpol #følepolitik'
+----
+6: 'Alt hvad der kom fra dyrlæger blev overhørt #dkpol #covid19dk #minkgate https://t.co/sETxWqAVdG'
+----
+7: 'I øvrigt ville det være fedt, hvis @Enhedslisten ville sige til de her mennesker, at de ikke skal sabotere et 1. maj-møde. Kan ikke forestille mig, Ø synes, det er i orden, og det kunne måske få nogle til at vise utilfredshed på en mere konstruktiv måde i stedet. #dkpol https://t.co/vyyoOOCiGM'
+----
+8: 'Husk lige at takke Donald J Trump og Mike Pompeo. De satte gang i det hele.\n\n#dkpol https://t.co/yqM3cB1w9Y'
+----
+9: 'Men det burde det bestemt ikke være #dkpol https://t.co/2ypjsqsv4j'
+----
+10: 'Generous offer from Madrid to hold the COP 25. \n#ClimateEmergency #ClimateCrisis #ClimateBreakdown \n#dkpol @DanJoergensen @politiken @informeren https://t.co/kOxDyjyO8x'
+----
+11: '#dkpol Det skal selvfølgelig ske i en kirke, gerne en hvor det omvendte kors er det vigtigste symbol! 😈 https://t.co/F7SQYoJwwT'
+----
+12: 'Og hvad har de tilfælles \n\n#dkpol https://t.co/jQdV7CEHXY'
+----
+13: 'Går @oestergaard drøm om en ministerbil nogensinde i opfyldelse?\nOg i givet fald, hvordan? \nHvad mener du? 😍\n#dkpol #dkmedier @radikale @venstredk @Spolitik'
+----
+14: '*host*\n\n#DKpol https://t.co/teLBgysCDv'
+----
+------------------------------------
+Cluser ID: 9
+Top words: ['#dkpol', '😲', 'søndag', 'tja', 'berlingske', '👊', 'see', '🏼', 'more', '😂']
+Texts:
+0: '#DKpol https://t.co/CzKCxjki8I'
+----
+1: 'Tja #dkpol https://t.co/6hZl4K6MWE'
+----
+2: '#dkpol https://t.co/HIrGn4qifG'
+----
+3: '#dkpol https://t.co/WHtrNNc8e3'
+----
+4: '#dkpol https://t.co/nIh54VqI2b'
+----
+5: '#dkpol https://t.co/G876CULF5R'
+----
+6: '#dkpol https://t.co/m80DJ9kedo'
+----
+7: '#dkpol https://t.co/2DD5alhBfA'
+----
+8: '#dkpol https://t.co/5k0YUTn0a1'
+----
+9: '#dkpol https://t.co/WYfIm64Im1'
+----
+10: '#dkpol https://t.co/LhCWnFu6vP https://t.co/hbYzE2EoCc'
+----
+11: '#dkpol https://t.co/C0Pr9zce1j'
+----
+12: '#dkpol https://t.co/DAQA9cjPr6'
+----
+13: '#dkpol https://t.co/Zqx5P13DPz'
+----
+14: '#dkpol https://t.co/b2MChciLXK'
+----
+------------------------------------
+Cluser ID: -1
+Top words: ['#dkpol', '@__gabriel_p__', '#italy', '#belgium', '#benelux', '#microsoft', '#brand', 'gongs', '#accountguard', '#spain', 'gfwis', '#didyouknow', '#nederland', '#mssecure', '#office', '#fundamentalrights', '#gchq', '#corruption', '#france', '#sweden', '#norway', '#humanrights', '#media', '#europe', '#germany', '#denmark', '#news', '#uk', '#eu', 'pulje']
+Texts:
+0: 'Avisen i morgen https://t.co/QvZhiwd3GZ #dkpol https://t.co/oivHmBZaF2'
+----
+1: 'https://t.co/tgewRYKgKl #dkpol'
+----
+2: 'https://t.co/EO9Q8Rxy4G #DKpol'
+----
+3: 'https://t.co/hFGpzd7Ad7\n\n#dkpol'
+----
+4: '@__gabriel_p__/gfwis #brand #Microsoft #MSSecure #AccountGuard #office #humanrights #FundamentalRights #uk #eu #europe #media #news #france #belgium #benelux #germany #nederland #norway #sweden #denmark #dkpol #spain #italy #DidYouKnow #corruption #gchq @__gabriel_p__/gongs https://t.co/dZGHdi3W4h'
+----
+5: 'https://t.co/eoUw6Ahkrj\n#dkpol'
+----
+6: 'https://t.co/ILrQjfApKC #dkpol'
+----
+7: 'I anledning af aftenens udgave af @dr2deadline kan jeg anbefale denne sjove video fra American dad, om Reagans gode ven Oliver North,\n#dkpol\nhttps://t.co/PTwjXjfu62\n"I leave you with four words: I\'m glad Reagan dead…" - Killer Mike https://t.co/3LgrhNztwN'
+----
+8: 'https://t.co/osF8fxi1J7 #FRAARG #dkpol'
+----
+9: '@politikodk Det lyder godt. Det er også nødvendigt. For mange der ikke kan og vil vores samfund har fået det. #dkpol'
+----
+10: 'Naturligvis påvirker hvem vi taler med og hvornår vi taler med dem vores virkelighed, bevidst og ubevidst. Derfor skal vi have lobbyregister, åbenhedsudvalg og ny offentlighedslov #dkpol #statsminister #kvotekonger #fisk https://t.co/IMQGuuUg6N'
+----
+11: 'Her går det godt. Om vi giver hånd eller ej er noget af det vigtigste vores politikere skal tage sig. \n#DKpol #DetKører #SymbolerErVigtige'
+----
+12: 'Læs dette fra New York times og se hvor præcis du kan ramme folk i kampagne (Som et valg) #dkpol These Ads Think They Know You https://t.co/oFL5YkKmne'
+----
+13: 'https://t.co/hhR4gwPtRo\n\n#dkpol'
+----
+14: 'Læser #fl19 - er nået til "Pulje til håndtering af vilde dyr fra cirkus" med særlig henblik på pensionering af elefanter #dkpol'
+----
+------------------------------------
