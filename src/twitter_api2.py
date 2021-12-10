@@ -63,21 +63,21 @@ class TwitterGenerator:
             'next_token': next_token
         }
 
-        while iteration > 0:
+        idx = 1
 
+        while iteration > 0:
             # Open jsonl file to store data
-            jsonl_file = open('data/dkpol_tweets.jsonl', 'a')
-            meta_file = open('data/dkpol_meta.jsonl', 'a')
+            jsonl_file = open('data/dkpol_tweets_test.jsonl', 'a')
+            meta_file = open('data/dkpol_meta_test.jsonl', 'a')
 
             # Query the tweets
             try:
                 tweets = self.client.search_all_tweets(**kwargs)
                 next_token = tweets.get('meta').get('next_token')
-            except:
+            except BaseException:
                 time.sleep(60)
                 tweets = self.client.search_all_tweets(**kwargs)
                 next_token = tweets.get('meta').get('next_token')
-
 
             if next_token is not None:
                 kwargs['next_token'] = next_token
@@ -99,6 +99,9 @@ class TwitterGenerator:
 
             iteration -= 1
 
+            print(idx)
+            idx += 1
+
 
 if __name__ == '__main__':
 
@@ -112,8 +115,8 @@ if __name__ == '__main__':
         default="credentials.json",
         help='Specify the path to your credentials.json')
 
-    parser.add_argument('--start', type = int, default=1)
-    parser.add_argument('--end', type = int, default=3)
+    parser.add_argument('--start', type=int, default=1)
+    parser.add_argument('--end', type=int, default=3)
     parser.add_argument('--next_token', default=None)
 
     args = parser.parse_args()
@@ -121,4 +124,4 @@ if __name__ == '__main__':
     t = TwitterGenerator(
         credential_path="academic_creds.json")
 
-    t.search_all('#dkpol', args.start, args.end, args.next_token)
+    t.search_all('#dkpol', args.start, args.end, None)
