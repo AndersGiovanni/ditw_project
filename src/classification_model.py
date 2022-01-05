@@ -14,7 +14,7 @@ from tqdm import tqdm
 
 from src.annotation_agreement import encode_labels, split_annotated_data
 from src.config import DATA_DIR
-from src.json_utils import read_jsonl
+from src.json_utils import read_jsonl, write_json
 
 
 def read_danish_stopwords() -> List[str]:
@@ -87,9 +87,6 @@ if __name__ == '__main__':
     evaluate_annotation_data, sentiment_classification_data = split_annotated_data(annotations)
 
     texts, y = get_text_and_labels(sentiment_classification_data)
-    X, _ = tf_idf_vectotize(texts, texts, stopwords, save_vectorizer_name='models/tf_idf_vectorizer.pkl')
-
-    train_and_save_model(X, y, 'models/sentiment_log_reg.pkl')
 
     exit()
 
@@ -100,9 +97,9 @@ if __name__ == '__main__':
 
     wrong_preds = []
 
-    for train_index, test_index in kf.split(texts, y):
+    for train_index, test_index in kf.split(texts[:400], y[:400]):
 
-        X_train_text, X_test_text = np.array(texts)[train_index], np.array(texts)[test_index]
+        X_train_text, X_test_text = np.array(texts[:400])[train_index], np.array(texts[:400])[test_index]
         X_train, X_test = tf_idf_vectotize(X_train_text, X_test_text, stopwords)
         y_train, y_test = y[train_index], y[test_index]
 
@@ -115,7 +112,8 @@ if __name__ == '__main__':
 
         f1 = f1_score(y_test, preds, average='weighted')
 
-        wrong_preds_split = [(X_test_text[idx], pred, y_test[idx]) for idx, pred in enumerate(preds) if pred != y_test[idx]]
+        wrong_preds_split = [{'text': X_test_text[idx], 'pred':int(pred), 'true': int(y_test[idx])}
+                             for idx, pred in enumerate(preds) if pred != y_test[idx]]
         wrong_preds.extend((wrong_preds_split))
 
         print(f'Fold: {idx}, F1: {f1}')
@@ -125,11 +123,8 @@ if __name__ == '__main__':
 
         idx += 1
 
-    with open('data/wrong_preds.txt', 'w') as wrongs:
-        for line in wrong_preds:
-            wrongs.write(f'{list(*line)}\n')
-
-    exit()
+    # Writing wrong predictions to file
+    # write_json(wrong_preds, 'wrong_preds.json')
 
     target_names = ['Negative', 'Neutral', 'Positive']
     print()
@@ -141,8 +136,8 @@ if __name__ == '__main__':
     disp.plot(cmap=plt.get_cmap('Blues'))
     # plt.tight_layout()
     # plt.savefig('data/img/cm_v1.png', dpi=300)
-    plt.show()
+    # plt.show()
 
     print()
-    # print('BERT Tone Sentiment Classification')
-    # evaluate_BERT_tone(texts, y)
+    print('BERT Tone Sentiment Classification')
+    evaluate_BERT_tone(texts[:400], y[:400])
