@@ -97,6 +97,3 @@ if __name__ == '__main__':
     count_annotations(collect_annotations)
 
     compute_fleiss_kappa(collect_annotations)
-
-    a = 1
-    pass

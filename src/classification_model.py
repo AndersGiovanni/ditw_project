@@ -88,8 +88,6 @@ if __name__ == '__main__':
 
     texts, y = get_text_and_labels(sentiment_classification_data)
 
-    exit()
-
     # kf = KFold(n_splits=5)
     kf = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
     all_preds, all_trues = list(), list()
@@ -123,9 +121,6 @@ if __name__ == '__main__':
 
         idx += 1
 
-    # Writing wrong predictions to file
-    # write_json(wrong_preds, 'wrong_preds.json')
-
     target_names = ['Negative', 'Neutral', 'Positive']
     print()
     print(classification_report(all_trues, all_preds, target_names=target_names))
@@ -134,10 +129,10 @@ if __name__ == '__main__':
     disp = ConfusionMatrixDisplay(confusion_matrix=cm,
                                   display_labels=target_names)
     disp.plot(cmap=plt.get_cmap('Blues'))
-    # plt.tight_layout()
-    # plt.savefig('data/img/cm_v1.png', dpi=300)
-    # plt.show()
+    plt.tight_layout()
+    plt.savefig('data/img/cm_v1.png', dpi=300)
+    plt.show()
 
     print()
     print('BERT Tone Sentiment Classification')
-    evaluate_BERT_tone(texts[:400], y[:400])
+    evaluate_BERT_tone(texts, y)
