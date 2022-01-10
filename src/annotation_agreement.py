@@ -71,10 +71,10 @@ def split_annotated_data(annotated_data: List[Dict]) -> Union[List[Dict], List[D
 def preprocess_annotations(annotations: List[Dict]) -> Dict[str, List[str]]:
 
     collect_annotations = {
-        'Anders': [],
-        'Ida': [],
-        'Johan': [],
-        'Nadia': []
+        'name1': [],
+        'name2': [],
+        'name3': [],
+        'name4': []
     }
 
     for annotation in annotations:
